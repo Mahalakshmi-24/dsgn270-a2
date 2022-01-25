@@ -10,5 +10,9 @@
 ### Global navigation
   ![Global](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/globalnavigation.png)
 
+### Local  navigation
+  ![Local ](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/local.png)
+
+
 
 
