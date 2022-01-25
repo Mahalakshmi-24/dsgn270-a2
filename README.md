@@ -29,6 +29,10 @@
 
 ### Website summary:
    
-   * Shein is a international fashion e-commerce platform (via SHEIN). ... 
-     While the brand focuses heavily on women's fashion, it does offer items for men, 
-     as well as home décor, shoes, and accessories.
+   * Shein is a international fashion e-commerce platform While the brand focuses 
+     heavily on women's fashion, it does offer items for men, as well as home décor, 
+     shoes, and accessories. There is even a pet section which offers everything from 
+     coats and hats to plush toys and leashes.The shein cloths are mostly cheapest in 
+     price.
+
+
