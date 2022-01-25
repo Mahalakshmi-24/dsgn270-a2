@@ -49,6 +49,9 @@
    * The letters or that banners are mostly in bright colors.
      ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein1.png
 
-   * when we try to minimize it, the offer screen is showing but it's overlapping
+   * When we try to minimize it, the offer screen is showing but it's overlapping
      the next element.
      ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein2.png)
+
+   * It repeats the sale session everywhere. And it also offers Free delivery and reduced 
+     shipping charges for particular amount of shopping.
