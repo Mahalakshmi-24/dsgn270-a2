@@ -35,4 +35,11 @@
      coats and hats to plush toys and leashes.The shein cloths are mostly cheapest in 
      price.
 
+### Call-to-Action Critique:
 
+   * We can see SALE word in entire page and if we try to move any page of this 
+     website we can see OFFER word anywhere.
+
+   * In this website allows user to see and buy offers provided by that website.
+
+   * 
