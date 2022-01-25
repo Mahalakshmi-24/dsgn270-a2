@@ -41,5 +41,4 @@
      website we can see OFFER word anywhere.
 
    * In this website allows user to see and buy offers provided by that website.
-
-   * 
+     ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein1.png)
