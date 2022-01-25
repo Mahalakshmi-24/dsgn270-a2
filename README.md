@@ -14,7 +14,13 @@
   ![Local](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/local.png)
 
 ### Utility navigation
-  ![Utility ](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/utilitynavi.png)
+  ![Utility](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/utilitynavi.png)
+
+### Breadcrumb navigation
+  ![Breadcrumb](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/breadcrumb.png)
+
+### Hamburger navigation
+  ![Hamburger](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/Hamburger.png)
 
 
 
