@@ -41,4 +41,10 @@
      website we can see OFFER word anywhere.
 
    * In this website allows user to see and buy offers provided by that website.
-     ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein1.png)
+     ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein.png)
+
+   * The offer segments different in color and text and they have little animation on 
+     that website.
+
+   * The letters or that banners are mostly in bright colors.
+     ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein1.png
