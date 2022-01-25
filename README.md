@@ -22,6 +22,13 @@
 ### Hamburger navigation
   ![Hamburger](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/Hamburger.png)
 
+# Part 2: Hero Section Critique
 
+## Website name: Shein
+## url of the website: https://ca.shein.com/
 
-
+### Website summary:
+   
+   * Shein is a international fashion e-commerce platform (via SHEIN). ... 
+     While the brand focuses heavily on women's fashion, it does offer items for men, 
+     as well as home décor, shoes, and accessories.
