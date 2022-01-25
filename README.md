@@ -7,5 +7,8 @@
 ## Website name: Dell technologies
 ## url of the website: https://www.dell.com/en-ca
 
+### Global navigation
+  ![Global](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/globalnavigation.png)
+
 
 
