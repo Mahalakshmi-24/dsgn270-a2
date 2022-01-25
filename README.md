@@ -48,3 +48,7 @@
 
    * The letters or that banners are mostly in bright colors.
      ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein1.png
+
+   * when we try to minimize it, the offer screen is showing but it's overlapping
+     the next element.
+     ![Shein](https://github.com/Mahalakshmi-24/dsgn270-a2/blob/main/image/shein2.png)
